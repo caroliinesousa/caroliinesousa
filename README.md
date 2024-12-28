@@ -1,4 +1,4 @@
-## Hi there 👋🏻
+## Olá 👋🏻
 
- 👩🏻‍💻 I’m currently studying Web Development and Mobile Devices
+ 👩🏻‍💻 Estudante de Desenvolvimento Web e Dispositivos Móveis
  
