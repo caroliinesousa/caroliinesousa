@@ -3,7 +3,7 @@
 
 <p>
 
-Estudante de Desenvolvimento Web e Dispositivos Móveis na **IPLUSO**<br/>
+Estudante de Desenvolvimento Web e Dispositivos Móveis <br/>
 
 
 </p>
