@@ -1,10 +1,12 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=caroliinesousa&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-<img src="https://img.shields.io/static/v1?label=Overview&message=Ana Sousa&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=caroliinesousa&show_icons=true&title_color=6b3500&text_color=333333&icon_color=6b3500&bg_color=fff5e1&hide_border=true">
 
-<p>
+<img src="https://img.shields.io/static/v1?label=Perfil&message=Ana%20Sousa&color=6b3500&style=for-the-badge&logo=github">
 
-Estudante de Desenvolvimento Web e Dispositivos Móveis <br/>
+---
 
+### 👩‍💻 Sobre mim
 
-</p>
-<hr>
+Estudante de **Desenvolvimento Web** e **Dispositivos Móveis**, apaixonada por tecnologia e em constante evolução.
+
+---
+
