@@ -4,7 +4,7 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### 👩🏻‍💻 Sobre mim
 
 Estudante de **Desenvolvimento Web** e **Dispositivos Móveis**, apaixonada por tecnologia e em constante evolução.
 
