@@ -1,7 +1,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Perfil&message=Ana%20Sousa&color=e2725b&style=for-the-badge&logo=github">
 
-Estudante de **Desenvolvimento Web** e **Dispositivos Móveis**
+Estudante de **Desenvolvimento Web** e **Dispositivos Móveis.**
 
 ---
 
