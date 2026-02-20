@@ -1,10 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=caroliinesousa&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=e2725b&hide_border=true">
-
-
-
-<img src="https://img.shields.io/static/v1?label=Perfil&message=Ana%20Sousa&color=e2725b&style=for-the-badge&logo=github">
-
----
+<img 
+  height="180em"
+  src="https://streak-stats.demolab.com?user=caroliinesousa&background=e2725b&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff&stroke=ffffff"
+/>
 
 ### 👩🏻‍💻 Sobre mim
 
